@@ -528,7 +528,17 @@
 		)
 		(uuid "183d235c-f8fb-465d-9b6b-eeadd0a9ecf5")
 	)
-	(text "Device"
+	(text "1.1"
+		(exclude_from_sim no)
+		(at 271.78 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3bc27fe5-4342-444b-97b4-551fffe9d911")
+	)
+	(text "LV Box"
 		(exclude_from_sim no)
 		(at 93.472 97.79 0)
 		(effects
@@ -537,6 +547,16 @@
 			)
 		)
 		(uuid "59aaf73a-aae1-4941-9b2d-84657e2aa9fd")
+	)
+	(text "Device Bus Board"
+		(exclude_from_sim no)
+		(at 197.104 189.484 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "663e782b-720d-48c5-9ed2-a2842c366288")
 	)
 	(text "DCDC"
 		(exclude_from_sim no)
@@ -557,6 +577,16 @@
 			)
 		)
 		(uuid "9ebaab4c-5ce7-44a4-8e45-fd08ee2c9e2b")
+	)
+	(text "11/23/2026"
+		(exclude_from_sim no)
+		(at 213.868 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ce1c2459-e746-4b83-9572-7e636e80222a")
 	)
 	(wire
 		(pts

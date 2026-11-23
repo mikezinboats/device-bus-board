@@ -1813,7 +1813,7 @@
 		(layer "Edge.Cuts")
 		(uuid "252fec8c-c692-43bc-b66f-d2dc5d5e0197")
 	)
-	(gr_text "Device"
+	(gr_text "LV Box"
 		(at 119.9 67.2 90)
 		(layer "F.SilkS")
 		(uuid "2501e8be-74e5-488c-bcfd-4fd97025b462")
@@ -1849,7 +1849,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Device"
+	(gr_text "LV Box"
 		(at 165.5 67 90)
 		(layer "F.SilkS")
 		(uuid "b7499a51-4e0f-43db-9b81-689a8bfffa56")
@@ -1881,6 +1881,19 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Device Bus Board Rev 1.1"
+		(at 129.5 106.5 0)
+		(layer "F.SilkS")
+		(uuid "1c510b28-7297-4633-8c78-1b1205aca645")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
