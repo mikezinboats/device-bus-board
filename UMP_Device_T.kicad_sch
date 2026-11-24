@@ -670,7 +670,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 87.63) (xy 260.35 90.17)
+			(xy 261.62 78.74) (xy 261.62 81.28)
 		)
 		(stroke
 			(width 0)
@@ -770,7 +770,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 97.79) (xy 260.35 100.33)
+			(xy 261.62 88.9) (xy 261.62 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1089,7 +1089,7 @@
 		(uuid "4190cee6-9eb6-4ce5-b649-30f686640d13")
 	)
 	(label "CAN_L"
-		(at 260.35 100.33 0)
+		(at 261.62 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1179,7 +1179,7 @@
 		(uuid "86756d86-bfb7-4ace-8569-7e5e28da542f")
 	)
 	(label "CAN_H"
-		(at 260.35 87.63 0)
+		(at 261.62 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1718,7 +1718,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 260.35 93.98 0)
+		(at 261.62 85.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1729,7 +1729,7 @@
 		(fields_autoplaced yes)
 		(uuid "cab3496d-3911-48de-a350-cfdbd77b0b84")
 		(property "Reference" "R2"
-			(at 262.89 92.7099 0)
+			(at 264.16 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1740,7 +1740,7 @@
 			)
 		)
 		(property "Value" "120ohm"
-			(at 262.89 95.2499 0)
+			(at 264.16 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1751,7 +1751,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 258.572 93.98 90)
+			(at 259.842 85.09 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1762,7 +1762,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 93.98 0)
+			(at 261.62 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1773,7 +1773,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 260.35 93.98 0)
+			(at 261.62 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
